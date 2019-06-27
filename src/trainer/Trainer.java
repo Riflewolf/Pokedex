@@ -1,6 +1,6 @@
 package trainer;
 
 public class Trainer {
-	int test = 1;
+	int test = 2;
 
 }
