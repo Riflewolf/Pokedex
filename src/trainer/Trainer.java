@@ -13,6 +13,7 @@ public class Trainer {
 	String Gender;
 	int Height;
 	int Weight;
+	//derived stats
 	int MHP;
 	int SPE;
 	int DFE;
